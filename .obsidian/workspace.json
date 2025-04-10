@@ -160,6 +160,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6c836a89630498a5",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 4
@@ -180,7 +190,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bef8be207f4ec76",
+  "active": "7000807348cf58ba",
   "lastOpenFiles": [
     "git version-control/Branch.md",
     "git version-control/Usefull.md",
