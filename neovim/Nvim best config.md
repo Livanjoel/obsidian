@@ -8,4 +8,5 @@ plugins loader
 			bufferline(bufferchange_fancy)
 			telescope(find_stuf)
 			todo-comments(highlight_coments:)
+			grug(search and replace)
 		optionals
