@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "textgenerator/configs/llm/config_4-10135446.json.md",
+                "file": "git version-control/Usefull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "config_4-10135446.json"
+              "title": "Usefull"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "textgenerator/configs/llm/config_4-10135446.json.md",
+                "file": "git version-control/Usefull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from config_4-10135446.json"
+              "title": "Outgoing links from Usefull"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "textgenerator/configs/llm/config_4-10135446.json.md",
+                "file": "git version-control/Usefull.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of config_4-10135446.json"
+              "title": "Outline of Usefull"
             }
           },
           {
@@ -180,10 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4bef8be207f4ec76",
+  "active": "7000807348cf58ba",
   "lastOpenFiles": [
-    "textgenerator/configs/llm/config_4-10133323.json.md",
     "textgenerator/configs/llm/config_4-10135446.json.md",
+    "textgenerator/configs/llm/config_4-10133323.json.md",
     "textgenerator/configs/llm",
     "textgenerator/configs",
     "textgenerator",
