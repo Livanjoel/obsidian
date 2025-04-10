@@ -7,7 +7,8 @@ git commit --amend
 
 ==TAGS==
 **syntax**
-git tag identificator "description"
+git tag identificator> "description"
+
 ```
 git tag v2.3232a "fixed some errors in the syntax"
 ```
