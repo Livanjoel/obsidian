@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "687ba31cf5fd86d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30a72d7e9bb2e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac00ce6d428fa81d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Estimate file usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estimate file usage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9057b2f4f471948",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce10b86ce6bc2a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f29bff98dd668a20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87e0c99d61bae2ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac50e906f16bc9fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc8ad175aa63018a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f77bd8cfeac547c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a078a7acbe579ab8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux/Estimate file usage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Estimate file usage"
+            }
+          },
+          {
+            "id": "5f01768927c2074a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux/Estimate file usage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Estimate file usage"
+            }
+          },
+          {
+            "id": "e11a0f9aad03c992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "15dc61fd1ebabb4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux/Estimate file usage.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Estimate file usage"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 449.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac00ce6d428fa81d",
+  "lastOpenFiles": [
+    "README.md",
+    "linux/Estimate file usage.md",
+    "Untitled.canvas",
+    "linux/HTML of arch wiki page.md",
+    "linux/arch/Help form core cmdline.md",
+    "linux/pacman and aur-helper.md",
+    "know/README.md",
+    "know/LICENSE",
+    "know",
+    "hyprland/rice.md",
+    "hyprland/Untitled",
+    "hyprland/hyprland windows.md",
+    "linux/terminals/kitty.md",
+    "linux/terminals",
+    "Untitled.md",
+    "2025-04-05.md",
+    "linux/arch/linux distro.md",
+    "neovim",
+    "linux/arch",
+    "linux",
+    "Welcome.md",
+    "hyprland",
+    "Untitled 1.canvas",
+    "hyprland.md",
+    "2025-04-04.md",
+    "Untitled/create a link.md"
+  ]
+}
