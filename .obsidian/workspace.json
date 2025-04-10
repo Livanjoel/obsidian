@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "dae7c460f0f48e70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db013ec2d0085a32",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Estimate file usage.md",
+                "file": "obsidian/git sinc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Estimate file usage"
+              "title": "Backlinks for git sinc"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Estimate file usage.md",
+                "file": "obsidian/git sinc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Estimate file usage"
+              "title": "Outgoing links from git sinc"
             }
           },
           {
@@ -178,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,10 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7000807348cf58ba",
+  "active": "5f01768927c2074a",
   "lastOpenFiles": [
-    "obsidian/cook.md",
     "obsidian/git sinc.md",
+    "obsidian/cook.md",
     "textgenerator/configs/llm/config_4-10135446.json.md",
     "templates",
     "textgenerator/configs/llm",
