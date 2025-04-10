@@ -5,5 +5,8 @@ git remote add name_of_repo https://your/trpo/link.git
 ```
 PUSH
 ```
-git push -u origin master
+git push -u origin maste
 ```
+
+como cocinar carne
+
