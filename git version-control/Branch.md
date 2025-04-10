@@ -6,3 +6,7 @@ Is the place where the commits are posted and saved over the time
 git checkout <branch>
 ```
 
+==Branch create==
+```
+git branch -a <branch>
+```
