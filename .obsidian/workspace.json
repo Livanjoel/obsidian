@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/git sinc.md",
+                "file": "obsidian/git sinc.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/git sinc.md",
+                "file": "obsidian/git sinc.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -169,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac00ce6d428fa81d",
+  "active": "f29bff98dd668a20",
   "lastOpenFiles": [
     "linux/Estimate file usage.md",
-    "Untitled/git sinc.md",
-    "Untitled",
+    "obsidian/git sinc.md",
+    "obsidian",
     "README.md",
     "Untitled.canvas",
     "linux/HTML of arch wiki page.md",
