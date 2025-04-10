@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7000807348cf58ba",
+  "active": "4bef8be207f4ec76",
   "lastOpenFiles": [
     "git version-control/Branch.md",
     "git version-control/Usefull.md",
