@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/Usefull.md",
+                "file": "git version-control/Branch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usefull"
+              "title": "Branch"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "7000807348cf58ba",
   "lastOpenFiles": [
+    "git version-control/Usefull.md",
+    "git version-control/Branch.md",
     "textgenerator/configs/llm/config_4-10135446.json.md",
     "textgenerator/configs/llm/config_4-10133323.json.md",
     "textgenerator/configs/llm",
@@ -190,7 +192,6 @@
     "textgenerator/configs/llm/config_4-10132141.json.md",
     "textgenerator/configs/llm/config_4-10132125.json.md",
     "textgenerator/configs/llm/config_4-10130745.json.md",
-    "git version-control/Usefull.md",
     "textgenerator/templates/trash/default/summarizeLarge.md",
     "textgenerator/templates/trash/default/summarize.md",
     "textgenerator/templates/trash/default/simplify.md",
