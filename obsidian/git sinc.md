@@ -5,7 +5,7 @@ git remote add name_of_repo https://your/trpo/link.git
 ```
 PUSH
 ```
-git push -u origin maste
+git push -u origin master
 ```
 
 
