@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvim best config.md",
+                "file": "neovim/Nvim best config.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Nvim best config"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NEOVIM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,17 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nvim best config.md",
+                "file": "neovim/Plugins manager.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nvim best config"
+              "title": "Outline of Plugins manager"
+            }
+          },
+          {
+            "id": "4bef8be207f4ec76",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,9 +195,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "87e0c99d61bae2ce",
+  "active": "ac00ce6d428fa81d",
   "lastOpenFiles": [
-    "Nvim best config.md",
+    "neovim/Nvim best config.md",
     "neovim/Plugins manager.md",
     "obsidian/git sinc.md",
     "linux/Estimate file usage.md",
