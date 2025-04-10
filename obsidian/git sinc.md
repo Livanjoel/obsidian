@@ -8,5 +8,4 @@ PUSH
 git push -u origin maste
 ```
 
-como cocinar carne
-
+- [ ] como cocinar carne
