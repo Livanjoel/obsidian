@@ -12,4 +12,4 @@ git tag identificator "description"
 git tag v2.3232a "fixed some errors in the syntax"
 ```
 ==Desc==
-Here post the versions of the code and create a download source
+Here post the versions of the code and create a download source.
