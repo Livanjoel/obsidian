@@ -7,7 +7,8 @@ PUSH
 ```
 git push -u origin maste
 ```
-como cocinar stake
 
+
+  
 
   

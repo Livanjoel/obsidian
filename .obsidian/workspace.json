@@ -8,17 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1929e6b6e30e774",
+            "id": "7000807348cf58ba",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/data.json",
-                "bFile": ".obsidian/plugins/obsidian-git/data.json",
-                "aRef": ""
+                "file": "obsidian/git sinc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: data.json"
+              "icon": "lucide-file",
+              "title": "git sinc"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dae7c460f0f48e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db013ec2d0085a32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +198,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1929e6b6e30e774",
+  "active": "7000807348cf58ba",
   "lastOpenFiles": [
+    "obsidian/cook.md",
     "obsidian/git sinc.md",
     "textgenerator/configs/llm/config_4-10135446.json.md",
     "templates",
