@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/Branch.md",
+                "file": "git version-control/Usefull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Branch"
+              "title": "Usefull"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "7000807348cf58ba",
   "lastOpenFiles": [
-    "git version-control/Usefull.md",
     "git version-control/Branch.md",
+    "git version-control/Usefull.md",
     "textgenerator/configs/llm/config_4-10135446.json.md",
     "textgenerator/configs/llm/config_4-10133323.json.md",
     "textgenerator/configs/llm",
