@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/arch/Help form core cmdline.md",
+                "file": "hyprland/sddm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Help form core cmdline"
+              "title": "sddm"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#see",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/arch/Help form core cmdline.md",
+                "file": "hyprland/sddm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Help form core cmdline"
+              "title": "Backlinks for sddm"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/arch/Help form core cmdline.md",
+                "file": "hyprland/sddm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Help form core cmdline"
+              "title": "Outgoing links from sddm"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/arch/Help form core cmdline.md",
+                "file": "hyprland/sddm.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Help form core cmdline"
+              "title": "Outline of sddm"
             }
           },
           {
@@ -192,22 +192,24 @@
   },
   "active": "7000807348cf58ba",
   "lastOpenFiles": [
-    "linux/browser in terminal.md",
-    "linux/Estimate file usage.md",
-    "linux/pacman and aur-helper.md",
-    "linux/HTML of arch wiki page.md",
     "linux/arch/Help form core cmdline.md",
-    "linux/arch/linux distro.md",
-    "neovim/Plugins manager.md",
-    "git version-control/Branch.md",
-    "git version-control/Usefull.md",
+    "hyprland/sddm.md",
+    "hyprland/Rice.md",
     "hyprland/hyprland windows.md",
+    "linux/Estimate file usage.md",
+    "linux/browser in terminal.md",
+    "linux/HTML of arch wiki page.md",
+    "linux/pacman and aur-helper.md",
     "linux/terminals/kitty.md",
+    "linux/arch/linux distro.md",
+    "git version-control/Usefull.md",
+    "git version-control/Branch.md",
+    "know/README.md",
+    "neovim/Plugins manager.md",
     "Untitled.canvas",
     "neovim/Nvim best config.md",
     "neovim/Neovim best config.md",
     "hyprland/Untitled/sddm rice.md",
-    "hyprland/rice.md",
     "android/adb.md",
     "android",
     "textgenerator/configs/llm/config_4-10135446.json.md",
@@ -221,7 +223,6 @@
     "textgenerator/templates/trash/default/summarizeLarge.md",
     "textgenerator/templates/trash/default/summarize.md",
     "textgenerator/templates/trash/default/simplify.md",
-    "textgenerator/templates/trash/default/rewrite.md",
     "textgenerator/templates/trash/huggingface",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash",
