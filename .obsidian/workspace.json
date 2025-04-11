@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/adb.md",
+                "file": "hyprland/Untitled/sddm rice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adb"
+              "title": "sddm rice"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "7000807348cf58ba",
   "lastOpenFiles": [
-    "git version-control/Branch.md",
+    "hyprland/rice.md",
+    "hyprland/Untitled/sddm rice.md",
     "android/adb.md",
+    "git version-control/Branch.md",
     "android",
     "git version-control/Usefull.md",
     "textgenerator/configs/llm/config_4-10135446.json.md",
@@ -224,9 +226,7 @@
     "textgenerator/templates",
     "neovim/Nvim best config.md",
     "neovim/Plugins manager.md",
-    "obsidian/git sinc.md",
     "git version-control",
-    "obsidian/cook.md",
     "templates",
     "Leech-Pro/rclone.jpg",
     "Untitled.canvas",
