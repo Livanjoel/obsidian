@@ -5,7 +5,7 @@ gentoo
 install wikiman pakage  
 
  #see 
-[[]]
+[[browser in terminal]]
 
 arch
 ```

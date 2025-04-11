@@ -5,7 +5,7 @@ require(config.lazy)
 
 
 config(folder)
-	lazy.lua
+	lazy.lua.
 plugins(folder)
 	plugin1
 	plugin2
