@@ -10,4 +10,4 @@ this is for single file
 ```
 du /usr/share/doc/arch-wiki/arch-wiki.html
 ```
-cahnge
+change
