@@ -4,13 +4,14 @@ init.lua
 require(config.lazy)
 #see [[Nvim best config]]
 
-
+init.lua
 config(folder)
 	lazy.lua.
 plugins(folder)
 	plugin1
 	plugin2
 	plugin3
+
 
 Lazy file inside Config 
 

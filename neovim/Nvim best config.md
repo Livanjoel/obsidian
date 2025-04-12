@@ -9,4 +9,5 @@ plugins loader
 			telescope(find_stuf)
 			todo-comments(highlight_coments:)
 			grug(search and replace)
+			gitsins(git integ)
 		optionals
