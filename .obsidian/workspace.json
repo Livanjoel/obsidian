@@ -11,14 +11,10 @@
             "id": "7000807348cf58ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Estimate file usage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estimate file usage"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,11 +188,13 @@
   },
   "active": "7000807348cf58ba",
   "lastOpenFiles": [
+    "neovim/Plugins manager.md",
+    "Untitled.canvas",
+    "linux/Estimate file usage.md",
     "hyprland/sddm.md",
     "linux/arch/Help form core cmdline.md",
     "hyprland/Rice.md",
     "hyprland/hyprland windows.md",
-    "linux/Estimate file usage.md",
     "linux/browser in terminal.md",
     "linux/HTML of arch wiki page.md",
     "linux/pacman and aur-helper.md",
@@ -206,8 +203,6 @@
     "git version-control/Usefull.md",
     "git version-control/Branch.md",
     "know/README.md",
-    "neovim/Plugins manager.md",
-    "Untitled.canvas",
     "neovim/Nvim best config.md",
     "neovim/Neovim best config.md",
     "hyprland/Untitled/sddm rice.md",
@@ -223,7 +218,6 @@
     "textgenerator/configs/llm/config_4-10130745.json.md",
     "textgenerator/templates/trash/default/summarizeLarge.md",
     "textgenerator/templates/trash/default/summarize.md",
-    "textgenerator/templates/trash/default/simplify.md",
     "textgenerator/templates/trash/huggingface",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash",

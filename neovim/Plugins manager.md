@@ -2,6 +2,7 @@
 Without the Starter Config
 init.lua
 require(config.lazy)
+#see [[Nvim best config]]
 
 
 config(folder)
