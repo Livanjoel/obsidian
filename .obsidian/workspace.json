@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c30a72d7e9bb2e67",
+        "id": "b2a0f4f95192560a",
         "type": "tabs",
         "children": [
           {
-            "id": "7000807348cf58ba",
+            "id": "3f304ae526c2308b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -186,11 +186,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7000807348cf58ba",
+  "active": "3f304ae526c2308b",
   "lastOpenFiles": [
-    "neovim/Pass comands inside nvim form cmd.md",
-    "git version-control/omzsh git alias.md",
+    "git version-control/omzsh git alias plugin.md",
     "git version-control/Usefull.md",
+    "obsidian/tips_bugs.md",
+    "obsidian/git sinc.md",
+    "2025-04-12.md",
+    "neovim/Pass comands inside nvim form cmd.md",
     "git version-control/Branch.md",
     "neovim/Nvim best config.md",
     "neovim/Plugins manager.md",
@@ -217,9 +220,6 @@
     "textgenerator/configs",
     "textgenerator",
     "textgenerator/configs/llm/config_4-10132141.json.md",
-    "textgenerator/configs/llm/config_4-10132125.json.md",
-    "textgenerator/configs/llm/config_4-10130745.json.md",
-    "textgenerator/templates/trash/default/summarizeLarge.md",
     "textgenerator/templates/trash/huggingface",
     "textgenerator/templates/trash/default",
     "textgenerator/templates/trash",
