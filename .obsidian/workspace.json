@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/Pull Request.md",
+                "file": "hyprland/Rice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pull Request"
+              "title": "Rice"
             }
           }
         ],
@@ -205,16 +205,17 @@
   },
   "active": "54497a100cb0075a",
   "lastOpenFiles": [
+    "git version-control/Commits.md",
+    "git version-control/Branch.md",
     "git version-control/omzsh git plugin aliases.md",
+    "git version-control/Fork.md",
     "git version-control/Pull Request.md",
     "git version-control/Stage.md",
     "git version-control/Tags.md",
     "git version-control/Usefull.md",
-    "git version-control/Branch.md",
     "linux/arch/Help form core cmdline.md",
     "linux/arch/linux distro.md",
     "hyprland/sddm.md",
-    "git version-control/Fork.md",
     "README.md",
     "know/README.md",
     "obsidian/git sinc.md",
@@ -224,7 +225,6 @@
     "Programation Logic",
     "bash-scripting",
     "hyprland/hyprland windows.md",
-    "git version-control/Commits.md",
     "linux/HTML of arch wiki page.md",
     "linux/browser in terminal.md",
     "linux/arch/Untitled.canvas",
