@@ -16,5 +16,5 @@ Credentials
 ```
 git config credential.helper store 
 ```
-	this save your credentials localy and dont have to put them every time you push a project
+	this save your credentials localy and dont have to put them every time you push a new project
 	Creadentaials are obatained on GitHub via token

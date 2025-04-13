@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/Configs.md",
+                "file": "git version-control/omzsh git plugin aliases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configs"
+              "title": "omzsh git plugin aliases"
             }
           }
         ],
@@ -205,14 +205,14 @@
   },
   "active": "54497a100cb0075a",
   "lastOpenFiles": [
+    "git version-control/Fork.md",
+    "git version-control/Configs.md",
+    "git version-control/omzsh git plugin aliases.md",
     "git version-control/Commits.md",
     "git version-control/Branch.md",
-    "git version-control/Configs.md",
     "git version-control/Stage.md",
     "git version-control/Pull Request.md",
-    "git version-control/Fork.md",
     "hyprland/Rice.md",
-    "git version-control/omzsh git plugin aliases.md",
     "git version-control/Tags.md",
     "git version-control/Usefull.md",
     "linux/arch/Help form core cmdline.md",
