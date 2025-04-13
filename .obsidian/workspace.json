@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/Commits.md",
-                "mode": "preview",
+                "file": "git version-control/Stage.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commits"
+              "title": "Stage"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "54497a100cb0075a",
   "lastOpenFiles": [
-    "git version-control/Usefull.md",
     "git version-control/Commits.md",
+    "git version-control/Usefull.md",
     "git version-control/Branch.md",
     "git version-control/Tags.md",
     "git version-control/Stage.md",

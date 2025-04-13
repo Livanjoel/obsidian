@@ -1,5 +1,5 @@
 #git #note 
-The stage is a property given to the files in git allowing he track changes in staged files
+The stage is a property given to the files in git allowing he to track changes in staged files
 the commits require the file be staged for be commited 
 
 Syntax 
