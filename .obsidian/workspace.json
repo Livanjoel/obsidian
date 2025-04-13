@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f304ae526c2308b",
+            "id": "3f0d1ed746838d94",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "git alias",
-                "bFile": "git alias",
-                "aRef": ""
+                "file": "linux/arch/Help form core cmdline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: git alias"
+              "icon": "lucide-file",
+              "title": "Help form core cmdline"
             }
           }
         ]
@@ -73,8 +73,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "e3dbed4ece6c9fe1",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyprland/sddm.md",
+                "file": "linux/arch/Help form core cmdline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sddm"
+              "title": "Backlinks for Help form core cmdline"
             }
           },
           {
@@ -176,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,36 +198,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "3f304ae526c2308b",
+  "active": "4bef8be207f4ec76",
   "lastOpenFiles": [
+    "linux/pacman and aur-helper.md",
+    "linux/arch/linux distro.md",
+    "linux/terminals/kitty.md",
+    "obsidian/git sinc.md",
+    "hyprland/sddm.md",
+    "hyprland/Rice.md",
+    "git version-control/omzsh git alias plugin.md",
     "TYPING/typing tips.md",
     "git alias",
     "git version-control/Branch.md",
     "TYPING",
     "2025-04-12.md",
     "Untitled.md",
-    "git version-control/omzsh git alias plugin.md",
     "git version-control/Usefull.md",
     "obsidian/tips_bugs.md",
-    "obsidian/git sinc.md",
     "neovim/Pass comands inside nvim form cmd.md",
     "neovim/Nvim best config.md",
     "neovim/Plugins manager.md",
     "Obsidian Vault.code-workspace",
     "Untitled.canvas",
     "linux/Estimate file usage.md",
-    "hyprland/sddm.md",
     "linux/arch/Help form core cmdline.md",
-    "hyprland/Rice.md",
     "hyprland/hyprland windows.md",
     "linux/browser in terminal.md",
     "linux/HTML of arch wiki page.md",
-    "linux/pacman and aur-helper.md",
-    "linux/terminals/kitty.md",
-    "linux/arch/linux distro.md",
     "know/README.md",
     "neovim/Neovim best config.md",
     "hyprland/Untitled/sddm rice.md",

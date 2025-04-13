@@ -1,5 +1,8 @@
 [
   "obsidian-icon-folder",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-mind-map",
+  "file-tree-alternative"
 ]
