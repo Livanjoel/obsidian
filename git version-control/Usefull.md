@@ -1,4 +1,5 @@
-#git #important Once changes and commits has been pushed and created a new comit in github that commit can't be edited, localy can
+#git #important 
+Once changes and commits has been pushed and created a new commit in github that commit can't be edited, locally can be done
 
 Edit the last comment local, not remote for update 
 ```

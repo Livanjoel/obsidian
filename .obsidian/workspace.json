@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "253952022cb34c1c",
+        "id": "8a928c77a2abc332",
         "type": "tabs",
         "children": [
           {
-            "id": "026fe22c6b62ea7d",
+            "id": "54497a100cb0075a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/omzsh git alias plugin.md",
-                "mode": "source",
+                "file": "git version-control/Commits.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "omzsh git alias plugin"
+              "title": "Commits"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -62,7 +63,20 @@
             }
           },
           {
-            "id": "4f3c28c82afaff92",
+            "id": "a34a96695b30dc5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "777288f53bb82b6a",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -72,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -92,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git version-control/omzsh git alias plugin.md",
+                "file": "git version-control/Fork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for omzsh git alias plugin"
+              "title": "Backlinks for Fork"
             }
           },
           {
@@ -135,21 +149,6 @@
             }
           },
           {
-            "id": "15dc61fd1ebabb4b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "git version-control/omzsh git alias plugin.md",
-                "followCursor": false,
-                "showSearch": true,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of omzsh git alias plugin"
-            }
-          },
-          {
             "id": "4bef8be207f4ec76",
             "type": "leaf",
             "state": {
@@ -168,13 +167,28 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "fd74b2d80f3dd109",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git version-control/Fork.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fork"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,37 +203,39 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "026fe22c6b62ea7d",
+  "active": "54497a100cb0075a",
   "lastOpenFiles": [
-    "obsidian/tips_bugs.md",
-    "git version-control/omzsh git alias plugin.md",
     "git version-control/Usefull.md",
+    "git version-control/Commits.md",
     "git version-control/Branch.md",
-    "TYPING/typing tips.md",
+    "git version-control/Tags.md",
+    "git version-control/Stage.md",
+    "git version-control/Fork.md",
+    "git version-control/omzsh git alias plugin.md",
+    "linux/HTML of arch wiki page.md",
     "linux/arch/Help form core cmdline.md",
-    "linux/pacman and aur-helper.md",
     "linux/arch/linux distro.md",
+    "hyprland/sddm.md",
+    "linux/browser in terminal.md",
+    "linux/arch/Untitled.canvas",
+    "neovim/Plugins manager.md",
+    "neovim/Pass comands inside nvim form cmd.md",
+    "neovim/Nvim best config.md",
+    "obsidian/tips_bugs.md",
+    "TYPING/typing tips.md",
+    "linux/pacman and aur-helper.md",
     "linux/terminals/kitty.md",
     "obsidian/git sinc.md",
-    "hyprland/sddm.md",
     "hyprland/Rice.md",
     "git alias",
     "TYPING",
     "2025-04-12.md",
     "Untitled.md",
-    "neovim/Pass comands inside nvim form cmd.md",
-    "neovim/Nvim best config.md",
-    "neovim/Plugins manager.md",
     "Obsidian Vault.code-workspace",
     "Untitled.canvas",
     "linux/Estimate file usage.md",
     "hyprland/hyprland windows.md",
-    "linux/browser in terminal.md",
-    "linux/HTML of arch wiki page.md",
     "know/README.md",
-    "neovim/Neovim best config.md",
-    "hyprland/Untitled/sddm rice.md",
-    "android/adb.md",
     "android",
     "textgenerator/configs/llm",
     "textgenerator/configs",

@@ -1,4 +1,6 @@
 see [[tips_bugs]]
+
+
 grt 	cd "$(git rev-parse --show-toplevel || echo .)"
 ggpnp 	ggl && ggp
 ggpur 	ggu

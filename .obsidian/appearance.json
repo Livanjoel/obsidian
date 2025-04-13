@@ -1,3 +1,6 @@
 {
-  "baseFontSize": 19
+  "baseFontSize": 19,
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
 }
