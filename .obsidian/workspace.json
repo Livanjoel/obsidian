@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyprland/Rice.md",
+                "file": "git version-control/Configs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rice"
+              "title": "Configs"
             }
           }
         ],
@@ -207,10 +207,12 @@
   "lastOpenFiles": [
     "git version-control/Commits.md",
     "git version-control/Branch.md",
-    "git version-control/omzsh git plugin aliases.md",
-    "git version-control/Fork.md",
-    "git version-control/Pull Request.md",
+    "git version-control/Configs.md",
     "git version-control/Stage.md",
+    "git version-control/Pull Request.md",
+    "git version-control/Fork.md",
+    "hyprland/Rice.md",
+    "git version-control/omzsh git plugin aliases.md",
     "git version-control/Tags.md",
     "git version-control/Usefull.md",
     "linux/arch/Help form core cmdline.md",
@@ -221,7 +223,6 @@
     "obsidian/git sinc.md",
     "obsidian/tips_bugs.md",
     "linux/Estimate file usage.md",
-    "hyprland/Rice.md",
     "Programation Logic",
     "bash-scripting",
     "hyprland/hyprland windows.md",
@@ -233,7 +234,6 @@
     "neovim/Nvim best config.md",
     "TYPING/typing tips.md",
     "linux/pacman and aur-helper.md",
-    "linux/terminals/kitty.md",
     "git alias",
     "TYPING",
     "Obsidian Vault.code-workspace",
