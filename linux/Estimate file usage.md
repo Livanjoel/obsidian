@@ -1,5 +1,6 @@
 Examples
-this is for a entire file
+this is for a entire 
+file
 ```
 du -sh /usr/share/doc/arch-wiki/
 ```
