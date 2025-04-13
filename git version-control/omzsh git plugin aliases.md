@@ -4,8 +4,8 @@ see [[tips_bugs]]
 grt 	cd "$(git rev-parse --show-toplevel || echo .)"
 ggpnp 	ggl && ggp
 ggpur 	ggu
-g 	git
-ga 	git add
+g 	    git
+ga 	     git add
 gaa 	git add --all
 gapa 	git add --patch
 gau 	git add --update
@@ -26,7 +26,7 @@ gbso 	git bisect old
 gbsr 	git bisect reset
 gbss 	git bisect start
 gbl 	git blame -w
-gb 	git branch
+gb 	    git branch
 gba 	git branch --all
 gbd 	git branch --delete
 gbD 	git branch --delete --force
@@ -55,7 +55,7 @@ gcas 	git commit --all --signoff
 gcasm 	git commit --all --signoff --message
 gcmsg 	git commit --message
 gcsm 	git commit --signoff --message
-gc 	git commit --verbose
+gc 	    git commit --verbose
 gca 	git commit --verbose --all
 gca! 	git commit --verbose --all --amend
 gcan! 	git commit --verbose --all --no-edit --amend
@@ -69,7 +69,7 @@ gcss 	git commit -S -s
 gcssm 	git commit -S -s -m
 gcf 	git config --list
 gdct 	git describe --tags $(git rev-list --tags --max-count=1)
-gd 	git diff
+gd 	    git diff
 gdca 	git diff --cached
 gdcw 	git diff --cached --word-diff
 gds 	git diff --staged
@@ -78,10 +78,10 @@ gdv 	git diff -w "$@" | view -
 gdup 	git diff @{upstream}
 gdnolock 	git diff $@ ":(exclude)package-lock.json" ":(exclude)\*.lock"
 gdt 	git diff-tree --no-commit-id --name-only -r
-gf 	git fetch
+gf 	    git fetch
 gfa 	git fetch --all --tags --prune
 gfo 	git fetch origin
-gg 	git gui citool
+gg 	    git gui citool
 gga 	git gui citool --amend
 ghh 	git help
 glgg 	git log --graph
@@ -100,7 +100,7 @@ glg 	git log --stat
 glgp 	git log --stat --patch
 gignored 	git ls-files -v | grep "^[[:lower:]]"
 gfg 	git ls-files | grep
-gm 	git merge
+gm 	    git merge
 gma 	git merge --abort
 gmc 	git merge --continue
 gms 	git merge --squash
@@ -109,7 +109,7 @@ gmom 	git merge origin/$(git_main_branch)
 gmum 	git merge upstream/$(git_main_branch)
 gmtl 	git mergetool --no-prompt
 gmtlvim 	git mergetool --no-prompt --tool=vimdiff
-gl 	git pull
+gl  	git pull
 gpr 	git pull --rebase
 gprv 	git pull --rebase -v
 gpra 	git pull --rebase --autostash
@@ -122,7 +122,7 @@ ggpull 	git pull origin "$(git_current_branch)"
 ggl 	git pull origin $(current_branch)
 gluc 	git pull upstream $(git_current_branch)
 glum 	git pull upstream $(git_main_branch)
-gp 	git push
+gp 	    git push
 gpd 	git push --dry-run
 gpf! 	git push --force
 ggf 	git push --force origin $(current_branch)
@@ -149,7 +149,7 @@ grbm 	git rebase $(git_main_branch)
 grbom 	git rebase origin/$(git_main_branch)
 grbum 	git rebase upstream/$(git_main_branch)
 grf 	git reflog
-gr 	git remote
+gr   	git remote
 grv 	git remote --verbose
 gra 	git remote add
 grrm 	git remote remove
@@ -206,41 +206,7 @@ gwt 	git worktree
 gwtls 	git worktree list
 gwtmv 	git worktree move
 gwtrm 	git worktree remove
-gk 	gitk --all --branches &!
+gk 	    gitk --all --branches &!
 gke 	gitk --all $(git log --walk-reflogs --pretty=%h) &!
 gtl 	gtl(){ git tag --sort=-v:refname -n --list ${1}\* }; noglob gtl
 Main branch preference
-
-Following the recent push for removing racially-charged words from our technical vocabulary, the git plugin favors using a branch name other than master. In this case, we favor the shorter, neutral and descriptive term main. This means that any aliases and functions that previously used master, will use main if that branch exists. We do this via the function git_main_branch.
-Deprecated aliases
-
-These are aliases that have been removed, renamed, or otherwise modified in a way that may, or may not, receive further support.
-Alias 	Command 	Modification
-gap 	git add --patch 	New alias: gapa.
-gcl 	git config --list 	New alias: gcf.
-gdc 	git diff --cached 	New alias: gdca.
-gdt 	git difftool 	No replacement.
-ggpull 	git pull origin $(current_branch) 	New alias: ggl. (ggpull still exists for now though.)
-ggpur 	git pull --rebase origin $(current_branch) 	New alias: ggu. (ggpur still exists for now though.)
-ggpush 	git push origin $(current_branch) 	New alias: ggp. (ggpush still exists for now though.)
-gk 	gitk --all --branches 	Now aliased to gitk --all --branches.
-glg 	git log --stat --max-count=10 	Now aliased to git log --stat --color.
-glgg 	git log --graph --max-count=10 	Now aliased to git log --graph --color.
-gwc 	git whatchanged -p --abbrev-commit --pretty = medium 	New alias: gwch.
-gup 	git pull --rebase 	now alias gpr
-gupv 	git pull --rebase -v 	now alias gprv
-gupa 	git pull --rebase --autostash 	now alias gpra
-gupav 	git pull --rebase --autostash -v 	now alias gprav
-gupom 	git pull --rebase origin $(git_main_branch) 	now alias gprom
-gupomi 	git pull --rebase=interactive origin $(git_main_branch) 	now alias gpromi
-Functions
-Current
-Command 	Description
-current_branch 	Returns the name of the current branch.
-git_current_user_email 	Returns the user.email config value. (Lives in lib/git.zsh.)
-git_current_user_name 	Returns the user.name config value. (Lives in lib/git.zsh.)
-git_develop_branch 	Returns the name of the “development” branch: dev, devel, development if they exist, develop otherwise.
-git_main_branch 	Returns the name of the main branch: main if it exists, master otherwise.
-grename <old> <new> 	Renames branch <old> to <new>, including on the origin remote.
-gbda 	Deletes all merged branches
-gbds 	Deletes all squash-merged branches (Note: performance degrades with number of branches)
