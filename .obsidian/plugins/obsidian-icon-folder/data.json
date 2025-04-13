@@ -5,7 +5,12 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiShieldMinus",
+      "LiFileEdit",
+      "LiDiamond",
+      "LiPen"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +32,21 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "TYPING": {
+    "iconName": "LiPen",
+    "iconColor": "#d0bdbd"
+  },
+  "obsidian": {
+    "iconName": "LiDiamond",
+    "iconColor": "#8f145c"
+  },
+  "neovim": {
+    "iconName": "LiFileEdit",
+    "iconColor": "#187223"
+  },
+  "linux": {
+    "iconName": "LiShieldMinus",
+    "iconColor": "#8d1111"
   }
 }
