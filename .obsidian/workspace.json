@@ -204,8 +204,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "54497a100cb0075a",
+  "active": "777288f53bb82b6a",
   "lastOpenFiles": [
+    "Programation Logic",
+    "bash-scripting",
     "hyprland/sddm.md",
     "hyprland/Rice.md",
     "hyprland/hyprland windows.md",
@@ -236,14 +238,12 @@
     "Obsidian Vault.code-workspace",
     "Untitled.canvas",
     "linux/Estimate file usage.md",
-    "know/README.md",
     "android",
     "textgenerator/configs/llm",
     "textgenerator/configs",
     "textgenerator",
     "textgenerator/templates/trash/huggingface",
     "textgenerator/templates/trash/default",
-    "textgenerator/templates/trash",
     "Leech-Pro/rclone.jpg",
     "Untitled 1.canvas"
   ]
