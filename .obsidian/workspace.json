@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/Understanding.md",
+                "file": "hyprland/Hyprland windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding"
+              "title": "Hyprland windows"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "54497a100cb0075a",
   "lastOpenFiles": [
+    "git version-control/Understanding.md",
     "git version-control/Tags.md",
     "git version-control/Stage.md",
     "git version-control/Pull Request.md",
@@ -218,7 +219,6 @@
     "neovim/Plugins manager.md",
     "neovim/Pass comands inside nvim form cmd.md",
     "neovim/Nvim best config.md",
-    "git version-control/Understanding.md",
     "git version-control/Fork.md",
     "hyprland/Rice.md",
     "linux/arch/Help form core cmdline.md",
@@ -230,7 +230,7 @@
     "linux/Estimate file usage.md",
     "Programation Logic",
     "bash-scripting",
-    "hyprland/hyprland windows.md",
+    "hyprland/Hyprland windows.md",
     "linux/HTML of arch wiki page.md",
     "linux/browser in terminal.md",
     "linux/arch/Untitled.canvas",
