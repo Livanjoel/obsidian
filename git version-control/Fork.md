@@ -1,4 +1,3 @@
-
 #git #important #note
-Make a copy of one projet in your github
-Can be done only in github not in terminal
+Make a copy of one project in your GitHub
+Can be done only in GitHub not in terminal

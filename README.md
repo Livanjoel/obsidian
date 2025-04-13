@@ -1,1 +1,1 @@
-First compilation of mi knowledge
+First compilation of my knowledge
