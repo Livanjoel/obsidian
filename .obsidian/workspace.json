@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a928c77a2abc332",
+        "id": "3f174a93d51bdb55",
         "type": "tabs",
         "children": [
           {
-            "id": "54497a100cb0075a",
+            "id": "6ff8a0553108f89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyprland/Hyprland windows.md",
+                "file": "TYPING/typing tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hyprland windows"
+              "title": "typing tips"
             }
           }
         ],
@@ -184,12 +184,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +203,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "54497a100cb0075a",
+  "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
+    "obsidian/Current Plugins.md",
+    "obsidian/tips_bugs.md",
+    "obsidian/git sinc.md",
+    "TYPING/typing tips.md",
+    "hyprland/Hyprland windows.md",
     "git version-control/Understanding.md",
     "git version-control/Tags.md",
     "git version-control/Stage.md",
@@ -214,8 +218,6 @@
     "git version-control/Configs.md",
     "git version-control/Commits.md",
     "git version-control/Branch.md",
-    "obsidian/git sinc.md",
-    "TYPING/typing tips.md",
     "neovim/Plugins manager.md",
     "neovim/Pass comands inside nvim form cmd.md",
     "neovim/Nvim best config.md",
@@ -226,15 +228,12 @@
     "hyprland/sddm.md",
     "README.md",
     "know/README.md",
-    "obsidian/tips_bugs.md",
     "linux/Estimate file usage.md",
     "Programation Logic",
     "bash-scripting",
-    "hyprland/Hyprland windows.md",
     "linux/HTML of arch wiki page.md",
     "linux/browser in terminal.md",
     "linux/arch/Untitled.canvas",
-    "linux/pacman and aur-helper.md",
     "git alias",
     "TYPING",
     "Obsidian Vault.code-workspace",
