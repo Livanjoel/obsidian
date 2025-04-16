@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghostty/Keybinds.md",
+                "file": "linux/arch/NetworkMananger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keybinds"
+              "title": "NetworkMananger"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
-    "Ghostty/Actions.md",
     "Ghostty/Keybinds.md",
+    "linux/arch/NetworkMananger.md",
+    "Ghostty/Actions.md",
     "linux/HTML of arch wiki page.md",
     "obsidian/git sinc.md",
     "linux/Estimate file usage.md",
@@ -231,7 +232,6 @@
     "neovim/Nvim best config.md",
     "git version-control/Fork.md",
     "hyprland/Rice.md",
-    "linux/arch/Help form core cmdline.md",
     "Programation Logic",
     "bash-scripting",
     "linux/arch/Untitled.canvas",
