@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/arch/NetworkMananger.md",
+                "file": "linux/Estimate file usage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NetworkMananger"
+              "title": "Estimate file usage"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
-    "Ghostty/Keybinds.md",
     "linux/arch/NetworkMananger.md",
+    "Ghostty/Keybinds.md",
     "Ghostty/Actions.md",
     "linux/HTML of arch wiki page.md",
     "obsidian/git sinc.md",
