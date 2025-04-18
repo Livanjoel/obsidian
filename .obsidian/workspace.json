@@ -11,14 +11,14 @@
             "id": "6ff8a0553108f89e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TYPING/typing tips.md",
-                "mode": "source",
-                "source": false
+                "aFile": "TYPING/typing tips.md",
+                "bFile": "TYPING/typing tips.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "typing tips"
+              "icon": "diff",
+              "title": "Diff: typing tips"
             }
           }
         ],
@@ -205,6 +205,7 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
+    "TYPING/typing tips.md",
     "README.md",
     "Untitled.canvas",
     "Programation Logic/Operadores Relacionales.md",
@@ -224,7 +225,6 @@
     "git version-control/Understanding.md",
     "git version-control/Pull Request.md",
     "git version-control/omzsh git plugin aliases.md",
-    "TYPING/typing tips.md",
     "obsidian/Current Plugins.md",
     "obsidian/tips_bugs.md",
     "hyprland/Hyprland windows.md",
