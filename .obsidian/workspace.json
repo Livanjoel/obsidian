@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programation Logic/Operadores Relacionales.md",
+                "file": "TYPING/typing tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operadores Relacionales"
+              "title": "typing tips"
             }
           }
         ],
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tags",
+                "query": "file:can",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,8 +205,10 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
-    "Programation Logic/Expresiones.md",
+    "README.md",
+    "Untitled.canvas",
     "Programation Logic/Operadores Relacionales.md",
+    "Programation Logic/Expresiones.md",
     "Programation Logic/Variables.md",
     "git version-control/Credentials.md",
     "mio.c",
@@ -231,15 +233,12 @@
     "git version-control/Configs.md",
     "git version-control/Commits.md",
     "git version-control/Branch.md",
-    "neovim/Plugins manager.md",
-    "neovim/Pass comands inside nvim form cmd.md",
     "Programation Logic",
     "bash-scripting",
     "linux/arch/Untitled.canvas",
     "git alias",
     "TYPING",
     "Obsidian Vault.code-workspace",
-    "Untitled.canvas",
     "android",
     "textgenerator/configs/llm",
     "textgenerator/configs",
