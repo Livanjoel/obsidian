@@ -1,8 +1,8 @@
 1-Functions
-2-Parenthesis operators
-3 Bracket operator
-4-Bracket operator
-5-Expansion, multiplication, division, modulo
+2-Parenthesis operators()
+3 Bracket operator[]
+4-Bracket operator{}
+5-Multiplication, division
 6-Addition, subtraction
 7-All other relational operators
 
