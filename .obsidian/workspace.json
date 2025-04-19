@@ -11,14 +11,14 @@
             "id": "6ff8a0553108f89e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "TYPING/typing tips.md",
-                "bFile": "TYPING/typing tips.md",
-                "aRef": ""
+                "file": "obsidian/tips_bugs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: typing tips"
+              "icon": "lucide-file",
+              "title": "tips_bugs"
             }
           }
         ],
@@ -205,6 +205,8 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
+    "obsidian/git sinc.md",
+    "obsidian/Current Plugins.md",
     "TYPING/typing tips.md",
     "README.md",
     "Untitled.canvas",
@@ -218,14 +220,12 @@
     "Ghostty/Keybinds.md",
     "Ghostty/Actions.md",
     "linux/HTML of arch wiki page.md",
-    "obsidian/git sinc.md",
     "linux/pacman and aur-helper.md",
     "Ghostty",
     "git version-control/GitHub Cli.md",
     "git version-control/Understanding.md",
     "git version-control/Pull Request.md",
     "git version-control/omzsh git plugin aliases.md",
-    "obsidian/Current Plugins.md",
     "obsidian/tips_bugs.md",
     "hyprland/Hyprland windows.md",
     "git version-control/Tags.md",
