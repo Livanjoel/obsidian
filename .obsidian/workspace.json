@@ -11,14 +11,17 @@
             "id": "6ff8a0553108f89e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programation Logic/Operadores Relacionales.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 39,
+                  "y": 43,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Operadores Relacionales"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -86,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -205,18 +208,20 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
-    "Programation Logic/Types of expressions.md",
-    "Programation Logic/Variables.md",
+    "Programation Logic/Hierarchy of operators.md",
+    "Untitled.canvas",
     "Programation Logic/Logic Operators.md",
+    "neovim/Nvim best config.md",
     "Programation Logic/Expressions.md",
     "Programation Logic/Operadores Relacionales.md",
+    "Programation Logic/Types of expressions.md",
+    "Programation Logic/Variables.md",
     "git version-control/Understanding.md",
     "obsidian/tips_bugs.md",
     "obsidian/git sinc.md",
     "obsidian/Current Plugins.md",
     "TYPING/typing tips.md",
     "README.md",
-    "Untitled.canvas",
     "git version-control/Credentials.md",
     "mio.c",
     "linux/Estimate file usage.md",
@@ -231,9 +236,6 @@
     "git version-control/omzsh git plugin aliases.md",
     "hyprland/Hyprland windows.md",
     "git version-control/Tags.md",
-    "git version-control/Stage.md",
-    "git version-control/Configs.md",
-    "git version-control/Commits.md",
     "Programation Logic",
     "bash-scripting",
     "linux/arch/Untitled.canvas",

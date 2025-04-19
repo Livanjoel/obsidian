@@ -1,5 +1,5 @@
 
-AND(y)
+AND(y) Conjunction
 
 | **valor1** | **valor2** | **result** |
 | ---------- | ---------- | ---------- |
@@ -8,7 +8,7 @@ AND(y)
 | True       | False      | False      |
 | False      | False      | False      |
 
-OR(o)
+OR(o) Disjunction
 
 | valor1 | valor2 | resultado |
 | ------ | ------ | --------- |
@@ -17,7 +17,7 @@ OR(o)
 | True   | True   | True      |
 | False  | False  | False     |
 
-NOT
+NOT(no) Negation
 
 | valor1 | result |
 | ------ | ------ |
