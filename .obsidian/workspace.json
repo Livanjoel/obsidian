@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programation Logic/Logic Operators.md",
+                "file": "Programation Logic/Types of expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logic Operators"
+              "title": "Types of expressions"
             }
           }
         ],
@@ -203,18 +203,20 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "777288f53bb82b6a",
+  "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
+    "Programation Logic/Expressions.md",
+    "Programation Logic/Types of expressions.md",
     "Programation Logic/Variables.md",
-    "Programation Logic/Logic Operators.md",
     "Programation Logic/Operadores Relacionales.md",
+    "Programation Logic/Logic Operators.md",
+    "git version-control/Understanding.md",
     "obsidian/tips_bugs.md",
     "obsidian/git sinc.md",
     "obsidian/Current Plugins.md",
     "TYPING/typing tips.md",
     "README.md",
     "Untitled.canvas",
-    "Programation Logic/Expresiones.md",
     "git version-control/Credentials.md",
     "mio.c",
     "linux/Estimate file usage.md",
@@ -225,7 +227,6 @@
     "linux/pacman and aur-helper.md",
     "Ghostty",
     "git version-control/GitHub Cli.md",
-    "git version-control/Understanding.md",
     "git version-control/Pull Request.md",
     "git version-control/omzsh git plugin aliases.md",
     "hyprland/Hyprland windows.md",
@@ -233,7 +234,6 @@
     "git version-control/Stage.md",
     "git version-control/Configs.md",
     "git version-control/Commits.md",
-    "git version-control/Branch.md",
     "Programation Logic",
     "bash-scripting",
     "linux/arch/Untitled.canvas",
