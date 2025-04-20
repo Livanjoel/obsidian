@@ -21,3 +21,5 @@ Are for mark a point in the project for testing making a downloadable content ki
 Are the different ways on the timeline of the code
 Each branch is repeatedly associated to a specific area in the code 
 There is allays a branch associated whit the correct code or the core of the code named `master`   
+#see 
+![[progit.pdf]]

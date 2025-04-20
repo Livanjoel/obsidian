@@ -2,5 +2,9 @@
   "showLineNumber": false,
   "promptDelete": false,
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "tabSize": 2,
+  "showUnsupportedFiles": false
 }

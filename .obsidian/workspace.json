@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programation Logic/Hierarchy of operators.md",
+                "file": "git version-control/Understanding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hierarchy of operators"
+              "title": "Understanding"
             }
           }
         ],
@@ -205,18 +205,24 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
+    "progit.pdf",
+    "git version-control/Understanding.md",
+    "Ghostty/Keybinds.md",
+    "Ghostty/Actions.md",
+    "linux/terminals/Ghostty.md",
+    "linux/terminals/kitty.md",
     "Programation Logic/Logic Operators.md",
+    "Programation Logic/Variables.md",
+    "git version-control/omzsh git plugin aliases.md",
+    "Programation Logic/Hierarchy of operators.md",
     "Programation Logic/Expressions.md",
     "Programation Logic/Types of expressions.md",
-    "Programation Logic/Hierarchy of operators.md",
     "250419_16h18m39s_screenshot 1.png",
     "250419_16h18m39s_screenshot.png",
     "README.md",
     "Untitled.canvas",
     "neovim/Nvim best config.md",
     "Programation Logic/Operadores Relacionales.md",
-    "Programation Logic/Variables.md",
-    "git version-control/Understanding.md",
     "obsidian/tips_bugs.md",
     "obsidian/git sinc.md",
     "obsidian/Current Plugins.md",
@@ -225,16 +231,11 @@
     "mio.c",
     "linux/Estimate file usage.md",
     "linux/arch/NetworkMananger.md",
-    "Ghostty/Keybinds.md",
-    "Ghostty/Actions.md",
     "linux/HTML of arch wiki page.md",
     "linux/pacman and aur-helper.md",
     "Ghostty",
     "git version-control/GitHub Cli.md",
     "git version-control/Pull Request.md",
-    "git version-control/omzsh git plugin aliases.md",
-    "hyprland/Hyprland windows.md",
-    "git version-control/Tags.md",
     "Programation Logic",
     "bash-scripting",
     "linux/arch/Untitled.canvas",
@@ -243,7 +244,6 @@
     "Obsidian Vault.code-workspace",
     "android",
     "textgenerator/configs/llm",
-    "textgenerator/configs",
     "Leech-Pro/rclone.jpg",
     "Untitled 1.canvas"
   ]
