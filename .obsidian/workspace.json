@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programation Logic/Functions for numbers.md",
+                "file": "Math/Calculo de raices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions for numbers"
+              "title": "Calculo de raices"
             }
           }
         ],
@@ -205,8 +205,9 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
-    "Programation Logic/Functions for strings data type.md",
     "Programation Logic/Functions for numbers.md",
+    "Math/Calculo de raices.md",
+    "Programation Logic/Functions for strings data type.md",
     "hyprland/sddm.md",
     "hyprland/Rice.md",
     "hyprland/Hyprland windows.md",
@@ -235,7 +236,6 @@
     "neovim/Nvim best config.md",
     "Programation Logic/Operadores Relacionales.md",
     "obsidian/tips_bugs.md",
-    "obsidian/git sinc.md",
     "mio.c",
     "Ghostty",
     "Programation Logic",
