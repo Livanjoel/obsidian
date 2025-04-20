@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/Understanding.md",
+                "file": "Programation Logic/Mathematical problems and Algorithmic problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding"
+              "title": "Mathematical problems and Algorithmic problems"
             }
           }
         ],
@@ -205,8 +205,10 @@
   },
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
-    "progit.pdf",
+    "Programation Logic/Algorithms.md",
+    "Programation Logic/Mathematical problems and Algorithmic problems.md",
     "git version-control/Understanding.md",
+    "progit.pdf",
     "Ghostty/Keybinds.md",
     "Ghostty/Actions.md",
     "linux/terminals/Ghostty.md",
@@ -235,7 +237,6 @@
     "linux/pacman and aur-helper.md",
     "Ghostty",
     "git version-control/GitHub Cli.md",
-    "git version-control/Pull Request.md",
     "Programation Logic",
     "bash-scripting",
     "linux/arch/Untitled.canvas",
