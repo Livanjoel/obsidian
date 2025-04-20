@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Rule of tree.md",
+                "file": "Programation Logic/Functions for strings data type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rule of tree"
+              "title": "Functions for strings data type"
             }
           }
         ],
@@ -206,6 +206,7 @@
   "active": "6ff8a0553108f89e",
   "lastOpenFiles": [
     "Math/Rule of tree.md",
+    "Programation Logic/Functions for strings data type.md",
     "Math",
     "Programation Logic/Logic Operators.md",
     "Programation Logic/Mathematical problems and Algorithmic problems.md",
@@ -236,7 +237,6 @@
     "linux/Estimate file usage.md",
     "linux/arch/NetworkMananger.md",
     "linux/HTML of arch wiki page.md",
-    "linux/pacman and aur-helper.md",
     "Ghostty",
     "Programation Logic",
     "bash-scripting",

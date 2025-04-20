@@ -1,3 +1,15 @@
+#Abstract #Math
+The rule of three is a method for solving proportionality problems, where a relationship between two quantities is known and an unknown quantity needs to be solved. There are two main types:
+
+Simple rule of three: Involves two proportional quantities. It can be direct (when the two quantities increase or decrease in the same proportion) or inverse (when one quantity increases and the other decreases in the same proportion).
+
+Compound rule of three: Involves more than two proportional quantities.
+
+An algorithm can use the rule of three as part of its process for solving these types of mathematical problems. For example, an algorithm for calculating simple interest on a loan could use a simple rule of three.
+
+
+- Examples
+
 Here are some examples to illustrate how the simple rule of three and the compound rule of three work:
 Simple Rule of Three
 
@@ -10,6 +22,7 @@ Let's calculate: x = $24
 Answer: 12 pencils will cost $24.
 
 Example 2: Inverse
+
 Problem: If it takes 3 workers 20 days to build a wall, how long will it take 5 workers to build the same wall?
 Solution:
 We establish the inverse relationship: 3 workers * 20 days = 5 workers * x
