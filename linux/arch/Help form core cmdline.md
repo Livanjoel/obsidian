@@ -11,7 +11,7 @@ arch
 ```
 pacman -S wikiman
 ```
-for most detailed (recomended)
+for most detailed (recommended)
 ```
 pacman -s arch-wiki-docs
 ```
