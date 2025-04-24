@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ff8a0553108f89e",
+            "id": "271755e805ef2f24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculo de raices.md",
+                "file": "linux/Browser in CommandLine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculo de raices"
+              "title": "Browser in CommandLine"
             }
           }
         ],
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:can",
+                "query": "line:(nm)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,39 +203,39 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "6ff8a0553108f89e",
+  "active": "271755e805ef2f24",
   "lastOpenFiles": [
-    "Programation Logic/Functions for numbers.md",
-    "Math/Calculo de raices.md",
-    "Programation Logic/Functions for strings data type.md",
-    "hyprland/sddm.md",
+    "linux/CommandLine Downloader.md",
+    "linux/pacman and aur-helper.md",
+    "linux/HTML of arch wiki page.md",
+    "linux/Estimate file usage.md",
+    "linux/Browser in CommandLine.md",
     "hyprland/Rice.md",
+    "linux/arch/NetworkMananger.md",
+    "hyprland/sddm.md",
+    "Programation Logic/Functions for numbers.md",
+    "Programation Logic/Functions for strings data type.md",
+    "Programation Logic/Expressions.md",
+    "Programation Logic/Algorithms.md",
+    "Programation Logic/Operadores Relacionales.md",
+    "Programation Logic/Mathematical problems and Algorithmic problems.md",
+    "Programation Logic/Hierarchy of operators.md",
+    "Math/Calculo de raices.md",
+    "Math/Rule of tree.md",
+    "Math/learn.md",
     "hyprland/Hyprland windows.md",
     "linux/arch/Help form core cmdline.md",
     "linux/arch/linux distro.md",
-    "Math/Rule of tree.md",
     "Math",
     "Programation Logic/Logic Operators.md",
-    "Programation Logic/Mathematical problems and Algorithmic problems.md",
-    "Programation Logic/Algorithms.md",
     "git version-control/Understanding.md",
     "progit.pdf",
     "Ghostty/Keybinds.md",
     "Ghostty/Actions.md",
     "linux/terminals/Ghostty.md",
-    "linux/terminals/kitty.md",
-    "Programation Logic/Variables.md",
-    "git version-control/omzsh git plugin aliases.md",
-    "Programation Logic/Hierarchy of operators.md",
-    "Programation Logic/Expressions.md",
-    "Programation Logic/Types of expressions.md",
     "250419_16h18m39s_screenshot 1.png",
     "250419_16h18m39s_screenshot.png",
-    "README.md",
     "Untitled.canvas",
-    "neovim/Nvim best config.md",
-    "Programation Logic/Operadores Relacionales.md",
-    "obsidian/tips_bugs.md",
     "mio.c",
     "Ghostty",
     "Programation Logic",

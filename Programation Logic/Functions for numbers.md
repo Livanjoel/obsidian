@@ -19,3 +19,5 @@ a = 23
 ```
 print(RottedValue(a))
 ```
+
+Random(num1) -- Return a random value ending in -1 of the given value

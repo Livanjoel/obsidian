@@ -11,8 +11,9 @@ pacman -S python-pywal
 
 Bar 
 ```
-paru -S waybar 
+paru -S waybar hyprpanel
 ```
+
 
 Floating Menu 
 ```
