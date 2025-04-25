@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Browser in CommandLine.md",
+                "file": "hyprland/Rice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Browser in CommandLine"
+              "title": "Rice"
             }
           }
         ],
@@ -205,11 +205,11 @@
   },
   "active": "271755e805ef2f24",
   "lastOpenFiles": [
+    "linux/Browser in CommandLine.md",
     "linux/CommandLine Downloader.md",
     "linux/pacman and aur-helper.md",
     "linux/HTML of arch wiki page.md",
     "linux/Estimate file usage.md",
-    "linux/Browser in CommandLine.md",
     "hyprland/Rice.md",
     "linux/arch/NetworkMananger.md",
     "hyprland/sddm.md",
