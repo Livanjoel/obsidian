@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyprland/Rice.md",
+                "file": "Usefull/Vimiun keybinds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rice"
+              "title": "Vimiun keybinds"
             }
           }
         ],
@@ -205,12 +205,15 @@
   },
   "active": "271755e805ef2f24",
   "lastOpenFiles": [
+    "linux/Regular expresions.md",
+    "Usefull/Vimiun keybinds.md",
+    "Usefull",
+    "hyprland/Rice.md",
     "linux/Browser in CommandLine.md",
     "linux/CommandLine Downloader.md",
     "linux/pacman and aur-helper.md",
     "linux/HTML of arch wiki page.md",
     "linux/Estimate file usage.md",
-    "hyprland/Rice.md",
     "linux/arch/NetworkMananger.md",
     "hyprland/sddm.md",
     "Programation Logic/Functions for numbers.md",
@@ -231,8 +234,6 @@
     "git version-control/Understanding.md",
     "progit.pdf",
     "Ghostty/Keybinds.md",
-    "Ghostty/Actions.md",
-    "linux/terminals/Ghostty.md",
     "250419_16h18m39s_screenshot 1.png",
     "250419_16h18m39s_screenshot.png",
     "Untitled.canvas",
@@ -244,7 +245,6 @@
     "git alias",
     "TYPING",
     "Obsidian Vault.code-workspace",
-    "android",
     "Leech-Pro/rclone.jpg",
     "Untitled 1.canvas"
   ]
