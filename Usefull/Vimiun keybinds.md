@@ -1,3 +1,8 @@
+
+## Wiki
+https://github.com/philc/vimium/wiki/Find-Mode
+
+
 ## Navigating the current page
 
 ?       show the help dialog for a list of all available keys
