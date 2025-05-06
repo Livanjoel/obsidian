@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Usefull/Vimiun keybinds.md",
+                "file": "linux/Setitng default shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vimiun keybinds"
+              "title": "Setitng default shell"
             }
           }
         ],
@@ -205,10 +205,11 @@
   },
   "active": "271755e805ef2f24",
   "lastOpenFiles": [
+    "Usefull/Vimiun keybinds.md",
+    "linux/Setitng default shell.md",
     "Math/Learn.md",
     "Math/Calculo de raices.md",
     "Math/Rule of tree.md",
-    "Usefull/Vimiun keybinds.md",
     "linux/Regular expresions.md",
     "Usefull",
     "hyprland/Rice.md",
@@ -233,7 +234,6 @@
     "Programation Logic/Logic Operators.md",
     "git version-control/Understanding.md",
     "progit.pdf",
-    "Ghostty/Keybinds.md",
     "250419_16h18m39s_screenshot 1.png",
     "250419_16h18m39s_screenshot.png",
     "Untitled.canvas",
