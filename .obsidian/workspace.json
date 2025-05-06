@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Setitng default shell.md",
+                "file": "Regualr Expressions/Uses rregex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setitng default shell"
+              "title": "Uses rregex"
             }
           }
         ],
@@ -205,34 +205,35 @@
   },
   "active": "271755e805ef2f24",
   "lastOpenFiles": [
+    "Regualr Expressions/Using grep.md",
+    "Regualr Expressions/Uses rregex.md",
+    "Programation Logic/Logic Operators.md",
+    "Regualr Expressions",
+    "Programation Logic/Hierarchy of operators.md",
+    "Programation Logic/Functions for strings data type.md",
+    "Programation Logic/Functions for numbers.md",
+    "Programation Logic/Expressions.md",
+    "Programation Logic/Algorithms.md",
     "Usefull/Vimiun keybinds.md",
     "linux/Setitng default shell.md",
+    "linux/pacman and aur-helper.md",
+    "linux/Regular expresions.md",
     "Math/Learn.md",
     "Math/Calculo de raices.md",
     "Math/Rule of tree.md",
-    "linux/Regular expresions.md",
     "Usefull",
     "hyprland/Rice.md",
     "linux/Browser in CommandLine.md",
     "linux/CommandLine Downloader.md",
-    "linux/pacman and aur-helper.md",
     "linux/HTML of arch wiki page.md",
     "linux/Estimate file usage.md",
     "linux/arch/NetworkMananger.md",
     "hyprland/sddm.md",
-    "Programation Logic/Functions for numbers.md",
-    "Programation Logic/Functions for strings data type.md",
-    "Programation Logic/Expressions.md",
-    "Programation Logic/Algorithms.md",
     "Programation Logic/Operadores Relacionales.md",
     "Programation Logic/Mathematical problems and Algorithmic problems.md",
-    "Programation Logic/Hierarchy of operators.md",
     "hyprland/Hyprland windows.md",
     "linux/arch/Help form core cmdline.md",
-    "linux/arch/linux distro.md",
     "Math",
-    "Programation Logic/Logic Operators.md",
-    "git version-control/Understanding.md",
     "progit.pdf",
     "250419_16h18m39s_screenshot 1.png",
     "250419_16h18m39s_screenshot.png",
@@ -244,7 +245,6 @@
     "linux/arch/Untitled.canvas",
     "git alias",
     "TYPING",
-    "Obsidian Vault.code-workspace",
     "Leech-Pro/rclone.jpg",
     "Untitled 1.canvas"
   ]
