@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regualr Expressions/Uses rregex.md",
+                "file": "Regualr Expressions/Using grep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uses rregex"
+              "title": "Using grep"
             }
           }
         ],

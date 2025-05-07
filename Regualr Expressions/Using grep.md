@@ -1,5 +1,5 @@
 [[Uses rregex]]
 ## See wiki
 ```bash
-man grep 
+man grep or wikiman
 ```
