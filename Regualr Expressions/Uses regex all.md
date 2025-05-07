@@ -20,6 +20,10 @@
 ```
 		Coincide con cualquier caracter en el rango A - Z (case sensitive)
 
+## () Grupos de captura 
+```
+	
+```
 ## ^ Hace referencia al inicio de la cadena
 ```plaintext
 	^[a-z]{7} = binario = cualquier palabra de 7 carcteres case sensitive al inicio de una cadena
