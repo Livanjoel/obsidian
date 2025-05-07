@@ -40,14 +40,14 @@
 	[b]+[i]+inario = binario bbbbbbbiiiiiinario 
 ```
 	Coincide cualquier cantidad de repeticiones al carcter
-## {} Magnificador hace coincidir el anterior (token) determinada cantidad de veces
+## {} Magnificador hace coincidir el anterior token determinada cantidad de veces
 ```bash
 	[b]{3}inario = bbbinario
 ```
 	Solo hace coincidir determinada cantidada de veces
 	Puede tambien ser dentro de un rango determinador de repeticiones {4,8},{2,5}... 
 
-## ? Coincide una vez o ninguna 
+## ? Coincide una vez o ninguna (opcional)
 ```bash
 	binario? = bianr binario 
 ```
