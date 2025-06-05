@@ -1,4 +1,4 @@
-#NEOVIM #NeoPlugins
+#NEOVIM #NEOVM_Plugins
 Plugins 
 plugins loader
 		lazy

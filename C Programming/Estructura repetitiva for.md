@@ -1,3 +1,4 @@
+#Cbucles
 ## La estructura repetitiva `for` en el lenguaje C es una de las herramientas más fundamentales para controlar el flujo de un programa, permitiendo ejecutar un bloque de código un número específico de veces. Es especialmente útil cuando se conoce de antemano cuántas iteraciones se necesitan.
 
 ### Sintaxis General

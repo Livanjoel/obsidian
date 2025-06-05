@@ -1,3 +1,4 @@
+#Cstrings
 Las cadenas de caracteres son una estructura de datos que almacenas caracteres en sus indices para crear las cadenas de caracteres .
 En C las cadenas de caracteres hay que definirlas previamente ya que son variables .
 Las cadenas ya definidas no pueden ser redefinidas de ninguna manera.
@@ -22,6 +23,7 @@ fgets()
 > 		`FILE *stream`: Es el puntero al flujo de entrada del cual se leerán los datos.
 				- Para leer desde el teclado, usas `stdin`.
 				- Para leer desde un archivo, usas el puntero de archivo devuelto por `fopen()`.
+				- su formato es x\[5] x\[4]='\n'
 
 strcpy()
 > [ Copia el contenido de una cadena a otra] char \*strcpy(char \*dest, const char \*src);
@@ -37,7 +39,7 @@ strncmp()
 			const char *str1--> Un puntero a la primera cadena a comparar. El calificador const indica que la cadena no se modificara.
 			const char *str2--> Un puntero a la segunda cadena a comparar. El calificador const indica que la cadena no se modificara.
 			size_t n--> Es el numero maximo de caracteres a comparar en cada cadena. La comparación se detendrá solo después de n caracteres o que alguna cadena alcance el caracter nulo(\0)
-			##Valor de retorno:##
+			### Valor de retorno: ### 
 			La función `strncmp()` devuelve un valor entero que indica el resultado de la comparación:
 			- **`0`**: Si las primeras `n` (o menos, si una cadena termina antes) caracteres de `str1` son iguales a los de `str2`.
 			- **Un valor negativo (< 0)**: Si el primer carácter diferente en `str1` es menor (en valor ASCII) que el carácter correspondiente en `str2`.
@@ -49,7 +51,7 @@ strcat()
 > Liberia <string.h>
 > 			`char *dest`: Este es un puntero a la cadena de caracteres _destino_. Aquí es donde se copiará el contenido de la cadena fuente. **¡Es crucial que esta cadena tenga suficiente espacio asignado para contener tanto su contenido original como el contenido de la cadena fuente!** Si no hay suficiente espacio, se producirá un **desbordamiento de búfer (buffer overflow)**, lo cual es una vulnerabilidad de seguridad grave y un error común.
 > 			`const char *src`: Este es un puntero a la cadena de caracteres _fuente_. Su contenido se añadirá al final de la cadena destino. Se declara como `const` porque la función no modifica la cadena fuente.
-> 				COMO RELIZA LA CONCATENACION
+> 				
 > 				### **¿Cómo realiza la concatenación?** ###
 					1. `strcat()` localiza el carácter nulo (`\0`) que marca el final de la cadena `dest`.
 					2. A partir de esa posición (justo después del `\0`), comienza a copiar cada carácter de la cadena `src` a la cadena `dest`.

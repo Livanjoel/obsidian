@@ -1,3 +1,4 @@
+#Ccadenas_numericas_strings
 Los vectores son estructuras de datos que permiten almacenar un conjunto de datos del mismo tipo
 *Con un único nombre se define un vector y con medio de un subindice se accede a los datos del vector
 

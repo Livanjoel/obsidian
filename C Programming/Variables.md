@@ -1,0 +1,1 @@
+Siempre que se pueda se tiene que definir algún tipo de dato a cada variable ya que si no tienen algun tipo de dato dentro de ella e interactuan con determinada estructura de control de flujo o bucles pueden causar comportamientos indefinidos .
