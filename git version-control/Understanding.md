@@ -22,5 +22,5 @@ Are the different ways on the timeline of the code
 Each branch is repeatedly associated to a specific area in the code 
 There is allays a branch associated whit the correct code or the core of the code named `master`   
 #see 
-All official documentataion bellow
-![[progit.pdf]]
+All official documentation bellow
+![[progit.pdf]]  [[]]
