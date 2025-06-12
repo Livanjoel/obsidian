@@ -32,3 +32,7 @@ for ( f = 1; f < 5; f++)
 		1   2   3   4  -----> 4 posiciones 
 ```
 
+
+
+Los vectores pueden contener cualquier tipo de dato pero tienen que ser todos del mimo tipo
+Tambien pueden almacenar struct . En tal caso el cector
