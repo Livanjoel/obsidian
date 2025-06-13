@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git version-control/GitHub Cli.md",
+                "file": "C Programming/Punteros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Cli"
+              "title": "Punteros"
             }
           }
         ],
@@ -204,14 +204,16 @@
   },
   "active": "4d07f61638a4bf9c",
   "lastOpenFiles": [
+    "C Programming/Estructuras de dato_listas.md",
+    "C Programming/Punteros.md",
     "C Programming/#HACER.md",
+    "git version-control/GitHub Cli.md",
     "C Programming/#hacer2.md",
     "C Programming/IA for() estructura repetitiva.md",
     "obsidian/Current Plugins.md",
     "obsidian/git sinc.md",
     "obsidian/tips_bugs.md",
     "hyprland/Hyprland windows.md",
-    "C Programming/Punteros.md",
     "C Programming/Estructura repetitiva for.md",
     "git version-control/Fork.md",
     "git version-control/Branch.md",
@@ -233,8 +235,6 @@
     "invertirOrdenCargaMatriz.ora",
     "invertirOrdenCargaMatriz.png",
     "git version-control/Understanding.md",
-    "git version-control/Tags.md",
-    "git version-control/Stage.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "C Programming",

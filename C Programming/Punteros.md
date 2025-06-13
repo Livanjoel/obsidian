@@ -67,7 +67,7 @@ Al declarar el tipo de variable a la que apuntara el puntero y pasarle la direcc
 Si el caso fuese que ya el puntero se le declaro el tipo de variable a la que va a apuntar el puntero no debe ser representado con el *
 
 Por decirlo de alguna manera son un tipo de dato que de cierta manera se reduce a la expresión  y = &x ---> almacenar memoria y en ese lugar de la memoria se encuentran los datos de la variable.
-## Relacion de punteros con vectores y matrices
+## Relación de punteros con vectores y matrices
 [[struct]][[Matrices]]
 Los punteros tienen mucha relacion\ con los vectores y matrices ya que al hacer la asignacion de memoria al vector se le puede pasar el mismo vector o matriz .
 ```plaintext
@@ -89,6 +89,40 @@ int main() {
   }
 }
 ```
+## Operadores de punteros
+Las matrices y vectores son punteros pero que apuntan a varias direcciones de memoria aumentando en un byte para cada indice
+al intentar aumentar o decrementar una matriz o vector el mismo compilador no permite dicha acción.
+Pero si a otro puntero no declarado como un vector o matriz le asignamos la dirección de memoria de una matriz o vector si se podrá operar con ese puntero deccrementandolo o aumentándolo
+```plaintext
+#include <stdio.h>
+
+void cargar(char *ptr){
+  for (int l=0; l<5; l++,ptr++) {
+    scanf("%c", ptr);
+    getchar(); // sino se consume el salto de linea que deja scanf produce una
+               // incorrecta introducion de datos //
+  }
+}
+
+int main() {
+  char palabra[5];
+  char *ptr;
+  ptr=palabra;
+  cargar(ptr);
+  printf("%c|%p\n", *ptr, ptr); //el puntero apuntara 1byte delantae en cada interaccion (el siguiente caracter)
+  ptr++;
+  printf("%c|%p\n", *ptr, ptr);
+  ptr++;
+  printf("%c|%p\n", *ptr, ptr);
+  ptr++;
+  printf("%c|%p\n", *ptr, ptr);
+  ptr++;
+  printf("%c|%p\n", *ptr, ptr);
+  printf("Variable\n");
+  printf("%s", palabra);
+}
+```
+
 ## OJO
 Para acceder a los campos de un \*struct se puede utilizar el operador flecha -> pero hay que seguir usando el amperssan
 ya que el operador flecha su función es especificar la ruta hacia los campos de \*struct no se accede a la direccion de la memoria sino al contenido de la memoria de el campo especificado
@@ -101,8 +135,10 @@ struc producto{
 scanf("%f", &mi_struct->precio)
 ```
 
-## Asterisco
+## Asterisco(Desreferenciacion*)
+La desreferenciacion de un puntero es el proceso para acceder al valor almacenado en la direccion de memoria a la que apunta el puntero > Se realiza mediante el operador de desreferenciacion \*
 
 El asterisco se usa siempre que se va a declarar un puntero.
-Al no usarlo se indica que se quiere acceder al contenido de la variable que apunta.
+Al no usarlo se indica que se quiere acceder a la dirección de memoria del puntero.
+Al usarlo se indica que se quiere acceder al contenido de la dirección de memoria.
 Al usarlo en la declaracion y asignacion de un puntero su función es declaratoria no de acceso a su contenido.
