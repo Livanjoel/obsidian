@@ -1,5 +1,6 @@
-son variables que almacenan una direccion de memoria al hcaerlo literalmente acceden a todo el contenido del programa pudiendo almacenar cualquier valor en el mismo .
-Al acceder a las direcciones de memoria de otras variables en si su uso es idirecto porque al modificar el contenido de un puntero que apunta a determinada variable se modifica la variable es si misma .
+#C #punteros
+son variables que almacenan una dirección de memoria al hacerlo literalmente acceden a todo el contenido del programa pudiendo almacenar cualquier valor en el mismo .
+Al acceder a las direcciones de memoria de otras variables en si su uso es indirecto porque al modificar el contenido de un puntero que apunta a determinada variable se modifica la variable es si misma .
 
 ```palintext
 int numero = 10;
@@ -20,7 +21,7 @@ necesariamente primero hay que indicarle a que direccion de memoria va a acceder
 int *ptr = &numero; ----->se debe indicar que va a apuntar a una varible tipo int y se le pasa su direccion
 ```
 
-La direccion a la que apunta un puntero puede ser modificada es lo que los hace tan potentes solo hay que declarar nuevamente a que tipo de varible apuntar en caso de ser necesario y de pasarle la direccion de memoria de la variable a la que apuntara .
+La dirección a la que apunta un puntero puede ser modificada es lo que los hace tan potentes solo hay que declarar nuevamente a que tipo de varible apuntar en caso de ser necesario y de pasarle la direccion de memoria de la variable a la que apuntara .
 
 ```plainetxt
 #include <stdio.h>
@@ -64,3 +65,44 @@ int main() {
 Al declarar el tipo de variable a la que apuntara el puntero y pasarle la direccion de memoria de la variable en la misma linea el puntero hay que representarlo con su \*
 
 Si el caso fuese que ya el puntero se le declaro el tipo de variable a la que va a apuntar el puntero no debe ser representado con el *
+
+Por decirlo de alguna manera son un tipo de dato que de cierta manera se reduce a la expresión  y = &x ---> almacenar memoria y en ese lugar de la memoria se encuentran los datos de la variable.
+## Relacion de punteros con vectores y matrices
+[[struct]][[Matrices]]
+Los punteros tienen mucha relacion\ con los vectores y matrices ya que al hacer la asignacion de memoria al vector se le puede pasar el mismo vector o matriz .
+```plaintext
+#include <stdio.h>
+
+// los vectores son punteros que almacena la direccion del primer componente //
+int main() {
+  int vec[] = {22, 32,
+               44}; // vec almacena la direccion de el primer componente  //
+  int *punt;
+  punt = vec; // por eso esta asignacion de direccion de memoria es valida
+              // porque vec[] almacena la direccion del primer componente //
+  for (int l = 0; l < 3; l++) {
+    printf("%d|", punt[l]); // aqui hay algo de abstraccion ya que se puede
+                            // acceder a los subindices de la variable vec[]
+                            // pero usando el puntero como la misma variable
+                            // ahora se puede acceder al contenido del vector
+                            // desde cualquiera de las dos variable //
+  }
+}
+```
+## OJO
+Para acceder a los campos de un \*struct se puede utilizar el operador flecha -> pero hay que seguir usando el amperssan
+ya que el operador flecha su función es especificar la ruta hacia los campos de \*struct no se accede a la direccion de la memoria sino al contenido de la memoria de el campo especificado
+```bash
+struc producto{
+	char nobmbre[50];
+	float precio;
+}
+
+scanf("%f", &mi_struct->precio)
+```
+
+## Asterisco
+
+El asterisco se usa siempre que se va a declarar un puntero.
+Al no usarlo se indica que se quiere acceder al contenido de la variable que apunta.
+Al usarlo en la declaracion y asignacion de un puntero su función es declaratoria no de acceso a su contenido.
